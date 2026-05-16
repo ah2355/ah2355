@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ah2355
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web Development/Machine Learning
+- 🌱 I’m currently learning OCaml
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (email): afifhaque81@gmail.com
 <!---
